@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Tilemap
+    uniqueID: 2691512481
+    locked: 0
+  - name: DecorMap
+    uniqueID: 3941480363
+    locked: 0
