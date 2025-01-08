@@ -3,15 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
+  - DercoMap
   - 
   - 
   - 
@@ -41,9 +42,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Tilemap
-    uniqueID: 2691512481
-    locked: 0
-  - name: DecorMap
-    uniqueID: 3941480363
+  - name: New Layer 1
+    uniqueID: 294397049
     locked: 0
