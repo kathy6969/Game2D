@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f9429d61995e01c46ad006e9872baa12
+guid: d35422932a31aa2498ab08d16050cab3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Suriken_0
+      name: Jumper_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7fb4307acf45824fa96b8640729dba9
-      internalID: -1004604101
+      spriteID: 41cbda4f1ac976644a2f97f73cf310e0
+      internalID: 2106129602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Suriken_1
+      name: Jumper_1
       rect:
         serializedVersion: 2
-        x: 32
+        x: 24
         y: 0
-        width: 32
-        height: 32
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 031dca5b2f985ea4bbbc876aab68a4f1
-      internalID: 1061925271
+      spriteID: dea43bfe5c84c1641b2b25683240c337
+      internalID: -1022741206
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Suriken_2
+      name: Jumper_2
       rect:
         serializedVersion: 2
-        x: 64
+        x: 48
         y: 0
-        width: 32
-        height: 32
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +166,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 812ed9936c5d294458b743e29bd047d0
-      internalID: 711722046
+      spriteID: bc6c15c007b915349bff85a2625ee8b7
+      internalID: -171568348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Suriken_3
+      name: Jumper_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf827bc026ecd70458817a4212aa32cc
+      internalID: -1429017427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumper_4
       rect:
         serializedVersion: 2
         x: 96
         y: 0
-        width: 32
-        height: 32
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a4bc43441098fb42ba635b97c5dda8a
-      internalID: 1917655596
+      spriteID: f6c46a50265447249b76366316615371
+      internalID: -620772475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Suriken_4
+      name: Jumper_5
       rect:
         serializedVersion: 2
-        x: 128
+        x: 120
         y: 0
-        width: 32
-        height: 32
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e794f8f3480f2a4794c659d4565286a
-      internalID: -681348578
+      spriteID: e2fcf9064e93f764082015f44b5ac60b
+      internalID: -1688858954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Suriken_5
+      name: Jumper_6
       rect:
         serializedVersion: 2
-        x: 160
+        x: 144
         y: 0
-        width: 32
-        height: 32
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da850e0d1bce8474cba89783d7845ca4
-      internalID: -1058940503
+      spriteID: 0e94397126403c946a0351a58fef5012
+      internalID: -1635577740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Suriken_6
+      name: Jumper_7
       rect:
         serializedVersion: 2
-        x: 192
+        x: 168
         y: 0
-        width: 32
-        height: 32
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,29 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0678f8c7cc50ecd4b95dfb0b7b2c5e3a
-      internalID: -784983220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Suriken_7
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d599ae7d2de64994cb0fa46b50e3a729
-      internalID: -1440507854
+      spriteID: e9c89ce32f758c541a86e4c6f5afbda3
+      internalID: 1491790814
       vertices: []
       indices: 
       edges: []
@@ -288,14 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Suriken_0: -1004604101
-      Suriken_1: 1061925271
-      Suriken_2: 711722046
-      Suriken_3: 1917655596
-      Suriken_4: -681348578
-      Suriken_5: -1058940503
-      Suriken_6: -784983220
-      Suriken_7: -1440507854
+      Jumper_0: 2106129602
+      Jumper_1: -1022741206
+      Jumper_2: -171568348
+      Jumper_3: -1429017427
+      Jumper_4: -620772475
+      Jumper_5: -1688858954
+      Jumper_6: -1635577740
+      Jumper_7: 1491790814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
